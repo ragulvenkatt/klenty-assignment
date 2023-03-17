@@ -1,0 +1,2 @@
+# klenty-assignment
+news aggregator
